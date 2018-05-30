@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Fibonacci
+comment1.params=howMany
+comment1.target=int[]\ fibonacciSequence(int)
+comment2.params=howMany
+comment2.target=void\ print(int)
+numComments=3
